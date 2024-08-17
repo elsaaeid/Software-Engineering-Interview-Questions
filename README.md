@@ -53,7 +53,7 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 							</a>
 							</li>
 							<li>
-								<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/C">
+								<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/C%2C%20C%2B%2B">
 								C, C++
 								</a>
 							</li>
