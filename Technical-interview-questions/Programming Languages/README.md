@@ -20,5 +20,5 @@ Welcome to the Programming Languages Interview Questions and Answers repository!
 	  </li>
   </ul>
 
-Algorithm and Data Structure Questions: Test your knowledge on algorithms and data structures - commonly used in programming, including sorting algorithms, searching techniques, and tree traversal.
+- Algorithm and Data Structure Questions: Test your knowledge on algorithms and data structures - commonly used in programming, including sorting algorithms, searching techniques, and tree traversal.
 - Performance and Optimization: Gain insights into performance considerations, optimization techniques, and best practices for writing efficient code.
