@@ -65,7 +65,7 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 						</details>  
 					  </li>
 					  <li>
-						<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Shell%20Scripting">
+						<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Shell%20Scripting">
 						Shell Scripting
 						</a>
 					</li>
