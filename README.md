@@ -48,12 +48,12 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 						<br/>
 					  	<ul>
 							<li>
-							<a href="https://github.com/elsaaeid/Python-Interview-Questions/tree/main/README.">
+							<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Python">
 							Python
 							</a>
 							</li>
 							<li>
-								<a href="https://github.com/elsaaeid/C-Interview-Questions/tree/main">
+								<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/C">
 								C, C++
 								</a>
 							</li>
