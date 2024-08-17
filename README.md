@@ -84,29 +84,29 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/Stylesheet">Stylesheet:</a>
 									<ul>
 										<li>
-											<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/CSS">
+											<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/Stylesheet/CSS">
 											CSS
 											</a>
 										</li>
 										<li
-											<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/">
+											<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/Stylesheet/Sass%20and%20Less">
 											Sass and Less
 											</a>
 										</li>
 									</ul>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/Javascript-Interview-Questions/tree/master">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/Javascript">
 									Javascript
 									</a>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/TypeScript-Interview-Questions/tree/main">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/TypeScript">
 									TypeScript
 									</a>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/React%20js">
 									React js
 									</a>
 								</li>
@@ -117,28 +117,30 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 						<details>
 							<summary>
 						    <b>
-						      Backend Interview Questions:
+							    <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions">
+						      		Backend Interview Questions:
+							    </a>
 						    </b>
 						  </summary>
 							<br/>
 							  <ul>
 								<li>
-									<a href="https://github.com/elsaaeid/Backend-Interview-Questions-for-Development-with-Node.js-Express-and-MongoDB/tree/main">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Express">
 									Development with Express
 									</a>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/PHP-Backend-Interview-Questions/tree/main">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/PHP">
 									Development with PHP
 									</a>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/Laravel-Backend-Interview-Questions/blob/main/README.md">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Laravel">
 									Development with Laravel
 									</a>
 								</li>
 								  <li>
-									<a href="https://github.com/elsaaeid/Flask-Interview-Questions">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Flask">
 									Development with Flask
 									</a>
 								</li>
