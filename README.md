@@ -4,33 +4,16 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 
 # Contents
 
-- Behavioral interview questions: Commonly asked behavioral questions with suggested responses to help you articulate your experiences and values effectively.
+- <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Behavioral-interview-questions">
+						Behavioral Interview Questions
+</a>: Commonly asked behavioral questions with suggested responses to help you articulate your experiences and values effectively.
 
-- Technical interview questions: Questions focused on foundational computer science concepts and software engineering principles, along with concise explanations.
-
-
-<br />
-	<details>
-	    <summary>
-	        <b>
-	            Software Engineering:
-	        </b>
-	    </summary>
-		<br/>
-		  <ul>
-			<li>
-				<b>
-					<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Behavioral-interview-questions">
-						Behavioral Skills
-		   			</a>
-				</b>
-			</li>
-			<li>
+- 
 				<details>
 					<summary>
 				    <b>
 					    <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions">
-				      		Technical Skills
+				      		Technical Interview Questions
 					    </a>
 				    </b>
 				  </summary>
@@ -153,10 +136,7 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 							</details>
 						</li>
 	    				</ul>
-				</details>
-			</li>
-		</ul>
-	</details>
+				</details>: Questions focused on foundational computer science concepts and software engineering principles, along with concise explanations.
 
 <br />
 
