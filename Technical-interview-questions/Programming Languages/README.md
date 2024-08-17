@@ -10,3 +10,21 @@ Welcome to the Programming Languages Interview Questions and Answers repository!
 - Ruby: Learn about blocks, modules, metaprogramming, and Rails.
 Algorithm and Data Structure Questions: Test your knowledge on algorithms and data structures - commonly used in programming, including sorting algorithms, searching techniques, and tree traversal.
 - Performance and Optimization: Gain insights into performance considerations, optimization techniques, and best practices for writing efficient code.
+
+
+  <ul>
+								<li>
+								<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Python">
+								Python
+								</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/C%2C%20C%2B%2B">
+									C, C++
+									</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Ruby">
+									Ruby</a>
+								</li>
+		      					</ul>
