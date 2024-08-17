@@ -29,7 +29,7 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 			<details>
 				<summary>
 			    <b>
-				    <a href="https://github.com/elsaaeid/Technical-interview-Questions/blob/main/README.md">
+				    <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions">
 			      		Technical Skills
 				    </a>
 			    </b>
