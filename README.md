@@ -20,7 +20,7 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 	  <ul>
 		<li>
 			<b>
-				<a href="https://github.com/elsaaeid/Software-Engineering-Interviews/tree/main">
+				<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Behavioral-interview-questions">
 					Behavioral Skills
 	   			</a>
 			</b>
