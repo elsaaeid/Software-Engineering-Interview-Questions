@@ -76,20 +76,20 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 							<br/>
 							  <ul>
 								<li>
-									<a href="https://github.com/elsaaeid/HTML-interview-questions/blob/main/README.md">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/HTML">
 									HTML
 									</a>
 								</li>
 								<li>
-									Stylesheet:
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/Stylesheet">Stylesheet:</a>
 									<ul>
 										<li>
-											<a href="https://github.com/elsaaeid/CSS-Stylesheet-Interview-Questions/blob/main/README.md">
+											<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/CSS">
 											CSS
 											</a>
 										</li>
-										<li>
-											<a href="https://github.com/elsaaeid/Sass-and-Less-CSS-Interview-Questions/tree/main">
+										<li
+											<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions/">
 											Sass and Less
 											</a>
 										</li>
