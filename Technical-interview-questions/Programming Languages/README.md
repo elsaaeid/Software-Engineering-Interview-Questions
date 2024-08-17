@@ -5,11 +5,20 @@ Welcome to the Programming Languages Interview Questions and Answers repository!
 # Contents
 - General Programming Concepts: Explore foundational topics such as data types, control structures, error handling, and best practices that apply across multiple languages.
 - Language-Specific Questions: Delve into questions related to popular programming languages,including:
-- <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Python">Python</a>: Focus on syntax, data structures, OOP concepts, and libraries.
-- <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/C%2C%20C%2B%2B">
+  <ul>
+	  <li>
+		  <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Python">Python</a>: Focus on syntax, data structures, OOP concepts, and libraries.
+	  </li>
+  	<li>
+		 <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/C%2C%20C%2B%2B">
 									C, C++
-									</a>: Understand memory management, pointers, templates, and object-oriented programming.
-- <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Ruby">
-									Ruby</a>: Learn about blocks, modules, metaprogramming, and Rails.
+									</a>: Understand memory management, pointers, templates, and object-oriented programming.  
+	  </li>
+  	<li>
+		<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Ruby">
+									Ruby</a>: Learn about blocks, modules, metaprogramming, and Rails.  
+	  </li>
+  </ul>
+
 Algorithm and Data Structure Questions: Test your knowledge on algorithms and data structures - commonly used in programming, including sorting algorithms, searching techniques, and tree traversal.
 - Performance and Optimization: Gain insights into performance considerations, optimization techniques, and best practices for writing efficient code.
