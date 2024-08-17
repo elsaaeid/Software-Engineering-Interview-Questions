@@ -40,7 +40,9 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 						<details>
 							<summary>
 						    <b>
+							    <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages">
 							    Programming Languages:
+							    </a>
 						    </b>
 						  </summary>
 						<br/>
@@ -62,7 +64,7 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 						</details>  
 					  </li>
 					  <li>
-						<a href="https://github.com/elsaaeid/Shell-Scripting-Questions/tree/main">
+						<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Programming%20Languages/Shell%20Scripting">
 						Shell Scripting
 						</a>
 					</li>
@@ -70,7 +72,9 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 						<details>
 							<summary>
 						    <b>
-						      Frontend Interview Questions:
+							    <a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Frontend%20Interview%20Questions">
+						      		Frontend Interview Questions:
+							    </a>
 						    </b>
 						  </summary>
 							<br/>
@@ -125,22 +129,22 @@ Welcome to the Software Engineering Interview Questions repository! This collect
 							<br/>
 							  <ul>
 								<li>
-									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Express">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Development%20with%20Express">
 									Development with Express
 									</a>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/PHP">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Development%20with%20PHP">
 									Development with PHP
 									</a>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Laravel">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Development%20with%20Laravel">
 									Development with Laravel
 									</a>
 								</li>
 								  <li>
-									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Flask">
+									<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions/tree/master/Technical-interview-questions/Backend%20Interview%20Questions/Development%20with%20Flask">
 									Development with Flask
 									</a>
 								</li>
