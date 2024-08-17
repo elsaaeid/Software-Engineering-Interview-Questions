@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Overview
 
 Welcome to the Software Engineering Interview Questions repository! This collection serves as a comprehensive resource for anyone preparing for software engineering job interviews, whether you’re a seasoned developer or a fresh graduate. Within this repository, you will find a curated list of commonly asked interview questions, ranging from fundamental concepts to advanced topics, covering various programming languages, algorithms, system design, and behavioral questions.
