@@ -34,7 +34,7 @@ int main() {
 ## 3. What is a pointer in C? How do you use it?
 Answer: A pointer is a variable that stores the memory address of another variable. Pointers are used for dynamic memory allocation, arrays, and functions.
 
-### ```Code Example:
+### Code Example:
 
 
 ```c
