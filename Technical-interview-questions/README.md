@@ -422,3 +422,58 @@
    
       **Answer:** Computer-Aided Software Engineering (CASE) tools contribute to the software development lifecycle by providing a range of functionalities that support different phases of the development process. These tools aid in requirements analysis, design, code generation, testing, and maintenance, thereby streamlining and enhancing the efficiency of the entire SDLC. They enable a disciplined and check-pointed approach to software development, ensuring high-quality and defect-free software.
 
+## 9. What is WebAssembly and why is it used?
+Answer: WebAssembly (Wasm) is a binary instruction format designed for a stack-based virtual machine. It allows developers to run code written in languages like C, C++, and Rust on the web at near-native speed. WebAssembly is used to enhance web applications by enabling high-performance tasks, such as gaming, video editing, and scientific simulations, directly in the browser without relying solely on JavaScript.
+
+## 10. How does WebAssembly differ from JavaScript?
+Answer: While both WebAssembly and JavaScript can run in the browser, they serve different purposes. WebAssembly is a low-level binary format that is designed for performance and efficiency, making it suitable for compute-intensive tasks. In contrast, JavaScript is a high-level, interpreted language that is more flexible and easier to use for general web development tasks. WebAssembly can be compiled from various languages, allowing developers to leverage existing codebases.
+
+## 11. Can you explain the compilation process to WebAssembly?
+Answer: The compilation process to WebAssembly typically involves using a compiler that translates high-level code (like C, C++, or Rust) into WebAssembly binary format. For example, using Emscripten, a C/C++ compiler, you can compile your code into a `.wasm` file. This file can then be loaded and executed in the browser using JavaScript, allowing the WebAssembly module to interact with the web environment.
+
+## 12. What are the main benefits of using WebAssembly?
+Answer: The main benefits of using WebAssembly include:
+
+- Performance: WebAssembly runs at near-native speed, making it suitable for performance-critical applications.
+- Portability: It is designed to be platform-independent, allowing code to run on any device with a compatible browser.
+- Interoperability: WebAssembly can work alongside JavaScript, enabling developers to use both technologies in the same application.
+- Security: WebAssembly runs in a safe, sandboxed environment, which helps protect against certain types of vulnerabilities.
+
+
+## 13. Write a simple WebAssembly module that adds two numbers.
+Answer: Below is a simple example of a WebAssembly module written in C that adds two numbers. This code can be compiled to WebAssembly using Emscripten.
+
+#### C Code:
+
+```c
+// add.c
+int add(int a, int b) {
+    return a + b;
+}
+```
+
+#### Compilation Command:
+To compile this C code to WebAssembly, you would use the following command:
+
+```bash
+emcc add.c -o add.wasm -s EXPORTED_FUNCTIONS='["_add"]' -s MODULARIZE=1 -s EXPORT_NAME='createModule'
+```
+
+#### JavaScript to Call the WebAssembly Function:
+You can then use the following JavaScript code to load and call the add function from the WebAssembly module:
+
+```javascript
+// Load the WebAssembly module
+const loadWasm = async () => {
+    const response = await fetch('add.wasm');
+    const buffer = await response.arrayBuffer();
+    const { instance } = await WebAssembly.instantiate(buffer);
+    return instance;
+};
+
+// Using the WebAssembly function
+loadWasm().then(instance => {
+    const result = instance.exports._add(5, 3);
+    console.log('Result of addition:', result); // Output: Result of addition: 8
+});
+```
