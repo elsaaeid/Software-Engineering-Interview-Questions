@@ -771,3 +771,93 @@ Here, `bind` is used to create a new function (`sayHelloToJohn`) where `this` is
         ```
 
     **Note:** Understanding the differences between these functions is crucial for managing asynchronous operations effectively in Node.js. `process.nextTick` is executed first, followed by `setTimeout` and then `setImmediate`, which can affect the order of execution in your code.
+
+
+24. **What is synchronous programming in JavaScript?**
+Answer: Synchronous programming in JavaScript means that code execution happens in a sequential manner. Each line of code is executed one after the other, and the next line will not execute until the current line has completed. This can lead to blocking behavior, where long-running operations can delay the execution of subsequent code.
+
+25. **What is asynchronous programming in JavaScript?**
+Answer: Asynchronous programming allows code execution to continue without waiting for a previous operation to complete. In this model, operations can be initiated, and the program can move on to execute other code while waiting for the asynchronous operation to finish. This is particularly useful for tasks like network requests or file I/O, where waiting would otherwise block the main thread.
+
+26. **Can you provide an example of synchronous code?**
+Answer: Here’s a simple example of synchronous code:
+
+
+```javascript
+console.log("Start");
+console.log("Middle");
+console.log("End");
+```
+
+###### In this example, the output will always be:
+
+```javascript
+Start
+Middle
+End
+```
+
+Each console.log executes in order, blocking the next until the current one is complete.
+
+27. **Can you provide an example of asynchronous code?**
+Answer: Here’s an example of asynchronous code using setTimeout:
+
+```javascript
+console.log("Start");
+setTimeout(() => {
+  console.log("Middle");
+}, 1000);
+console.log("End");
+```
+
+###### In this case, the output will be:
+
+```javascript
+Start
+End
+Middle
+```
+
+The setTimeout function schedules the "Middle" log to execute after 1 second, allowing "End" to be logged immediately after "Start".
+
+28. **What are the advantages of synchronous programming?**
+Answer:
+##### Advantages of synchronous programming include:
+
+- Simplicity: The flow of execution is straightforward and easier to understand.
+- Predictability: Since operations are executed in order, it’s easier to reason about the state of the application at any point in time.
+  
+29. **What are the disadvantages of synchronous programming?**
+Answer:
+###### Disadvantages include:
+- Blocking: Long-running operations can block the execution of subsequent code, leading to a poor user experience, especially in UI applications.
+- Inefficiency: It can lead to wasted resources if the program is waiting for operations that could be handled in parallel.
+
+29. **What are the advantages of asynchronous programming?**
+Answer:
+
+###### Advantages of asynchronous programming include:
+
+- Non-blocking: It allows other operations to continue while waiting for long-running tasks to complete, improving responsiveness.
+- Better resource utilization: It can handle multiple operations concurrently, making it more efficient for I/O-bound tasks.
+
+30. **What are the disadvantages of asynchronous programming?**
+Answer:
+###### Disadvantages include:
+- Complexity: Asynchronous code can be harder to read and maintain, especially with nested callbacks (often referred to as "callback hell").
+- Error Handling: Managing errors in asynchronous code can be more complex compared to synchronous code.
+
+31. **How do you handle asynchronous operations in JavaScript?**
+Answer:
+###### Asynchronous operations can be handled using:
+
+- Callbacks: Functions passed as arguments to be executed after an operation completes.
+- Promises: Objects that represent the eventual completion (or failure) of an asynchronous operation, allowing for chaining with .then() and .catch().
+- Async/Await: A syntactic sugar over promises that allows writing asynchronous code in a more synchronous-like manner, making it easier to read and maintain.
+
+32. **When would you choose to use synchronous over asynchronous code?**
+Answer:
+###### Synchronous code is preferable when:
+- The operations are quick and do not block the main thread.
+- The order of execution is critical, and you need to ensure that one operation completes before the next begins.
+- You are working in a context where blocking behavior is acceptable, such as during initialization or setup tasks.
